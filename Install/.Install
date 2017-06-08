@@ -1,0 +1,7 @@
+Needed for installation:
+
+CREATE TABLE `%dbprefix%settings` (
+`property` VARCHAR( 255 ) NOT NULL ,
+`value` VARCHAR( 255 ) NOT NULL ,
+PRIMARY KEY ( `property` )
+) TYPE = MYISAM ;

@@ -1,4 +1,6 @@
 # Music.NiBo.Pro - A Social-Music-Platform-Framework 
+![](https://img.shields.io/badge/status-in%20development-red.svg)
+![](https://img.shields.io/badge/version-n.A.-red.svg)
 
 ## Never had your Music-Webpage a better experience!
 **- Easy To Use - Easy To Administrate - Social & Fast -**
@@ -11,7 +13,6 @@ An algorithm concluding likes, comments, views rates tracks to be in the Top10.
 Tracks in the Top10 can be voted by admins to be considerd on next compilation releases.
 
 Using a simple database structure is making **Music.NiBo.Pro** as fast as possible.
-
 
 # Functions
 **User Functions:**
