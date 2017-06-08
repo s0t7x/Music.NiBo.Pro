@@ -1,5 +1,5 @@
 # Music.NiBo.Pro - A Social-Music-Platform-Framework 
-![](https://img.shields.io/badge/status-in%20development-red.svg)
+![](https://img.shields.io/badge/status-development-red.svg)
 ![](https://img.shields.io/badge/version-n.A.-red.svg)
 
 ## Never had your Music-Webpage a better experience!
