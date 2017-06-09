@@ -1,5 +1,4 @@
 <?PHP
   include('dbsettings.php');
-  $connection = mysql_connect($dbhost,$dbuser,$dbpassword);
-  mysql_select_db($db,$connection);
+  $con = new PDO('mysql:host='.$dbhost.';dbname='.$dbschema.';charset=utf8mb4', $dbuser , $dbpassword);
 ?>

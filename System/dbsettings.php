@@ -1,7 +1,7 @@
 <?PHP
-    $dbhost     = "";
-    $dbuser     = "";
+    $dbhost     = "localhost";
+    $dbuser     = "root";
     $dbpassword = "";
-    $dbschema   = "";
-    $dbprefix   = "";
+    $dbschema   = "test";
+    $dbprefix   = "mcms_";
 ?>

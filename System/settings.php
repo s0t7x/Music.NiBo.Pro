@@ -1,9 +1,10 @@
 <?PHP
 function getSetting($property){
-  global $dbpraefix;
-  $res = mysql_query("SELECT value FROM ".$dbpraefix."settings WHERE  
-                      property = '".$property."'");
-  $row = mysql_fetch_row($res);
-  return $row[0];
+  global $dbprefix;
+  global $con;
+  $sql = "SELECT value FROM ".$dbprefix."settings WHERE property = '".$property."'";
+  foreach ($con->query($sql) as $row) {
+    return $row['value'];
+}
 }
 ?>
