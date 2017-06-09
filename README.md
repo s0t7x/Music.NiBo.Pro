@@ -1,34 +1,45 @@
 # Music.NiBo.Pro - A Social-Music-Platform-Framework 
+
 ![](https://img.shields.io/badge/status-development-red.svg)
 ![](https://img.shields.io/badge/version-n.A.-red.svg)
 
-## Never had your Music-Webpage a better experience!
+
+
+## Idea
+
 **- Easy To Use - Easy To Administrate - Social & Fast -**
 
-# Idea
-**Music.NiBo.Pro** is *far the best* experience! Give your musicians *a nice place to be*!
-With a lot of features you can stun youre viewers and users.
-For each User it is possible to upload Tracks. Others then can comment and like those music.
-An algorithm concluding likes, comments, views rates tracks to be in the Top10.
-Tracks in the Top10 can be voted by admins to be considerd on next compilation releases.
+**Music.NiBo.Pro** has to be *far the best* experience for a musician!
+
+For each User it is possible to upload Tracks so others can comment, like and share them.
+
+May your track will be pushed into the Top10.
+Tracks in the Top10 are voted by admins to be considered on next compilation releases.
 
 Using a simple database structure is making **Music.NiBo.Pro** as fast as possible.
 
-# Functions
+## Functions
+
 **User Functions:**
 - Manage Tracks
 - Comment Tracks
 - Download User Content
+
+
 
 **Administration Functions:**
 - Content Management
 - Votings
 - Release Tracks
 
-# Usage
-1. Simply **Download**
-2. Extract onto your Server
-3. Run the _setup.php
-4. Either include one of the Demo-Scripts or implement the Framework into your own Frontend
 
-# Demo
+
+## Usage
+1. Simply **Download**
+2. Extract
+3. Run the Setup
+4. Either include one of the Demo-Scripts or carry out the Framework into your own Front-End
+
+
+
+## Demo
